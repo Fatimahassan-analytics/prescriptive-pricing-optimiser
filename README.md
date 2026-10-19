@@ -2,7 +2,7 @@
 
 Estimate price elasticity from historical transaction data and find the revenue- and profit-maximising price under a cost constraint.
 
-**Live demo:** _[add your Streamlit Cloud URL here after deploying](https://prescriptive-pricing-optimiser-9u5oe8tucbwyf2p9zrxhkv.streamlit.app/)_
+**Live demo:** _https://prescriptive-pricing-optimiser-9u5oe8tucbwyf2p9zrxhkv.streamlit.app/_
 
 **Author:** Fatima Hassan — [github.com/Fatimahassan-analytics](https://github.com/Fatimahassan-analytics)
 
